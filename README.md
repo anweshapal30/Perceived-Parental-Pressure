@@ -80,7 +80,7 @@ Students often face immense academic and career pressure from their parents. Thi
 
 **Anwesha Pal**  
 BCA Student – Data Analytics | Jain (Deemed-to-be) University  
-[LinkedIn](#https://www.linkedin.com/in/anwesha-pal-6b6738284/) | [Email](#palanwesha974@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anwesha-pal-6b6738284/) | [Email](palanwesha974@gmail.com)
 
 ---
 
