@@ -2,13 +2,13 @@ import streamlit as st
 import pickle
 import numpy as np
 
-# Load the trained SVM model and scaler
-with open('/Users/anu/Downloads/svm_model2.pkl', 'rb') as f:
-    model = pickle.load(f)
-
-with open('/Users/anu/Downloads/scaler.pkl', 'rb') as f:
+# Load the trained scaler and model from relative paths
+with open('scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
 
+with open('svm_model2.pkl', 'rb') as f:
+    model = pickle.load(f)
+    
 # Function to make prediction
 def predict_pressure(inputs):
     scaled_inputs = scaler.transform([inputs])
