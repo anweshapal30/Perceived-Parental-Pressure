@@ -44,8 +44,7 @@ Students often face immense academic and career pressure from their parents. Thi
 
 1. Clone the repo:
     ```
-    git clone https://github.com/yourusername/perceived-parental-pressure.git
-    cd perceived-parental-pressure
+    git clone https://github.com/anweshapal30/Perceived-Parental-Pressure.git
     ```
 
 2. Install required packages:
